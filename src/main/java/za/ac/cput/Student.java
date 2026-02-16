@@ -1,5 +1,6 @@
 package za.ac.cput;
 
+// Base class from sample code
 public abstract class Student {
     protected String studentId;
     protected String name;
