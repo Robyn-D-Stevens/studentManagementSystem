@@ -1,9 +1,9 @@
 # Student Management System Assignment
-Mini Assignment 1 16/02/2026
+Mini Assignment 1 - 16/02/2026
 
 ## Overview 
 This project is a simple **Student Management System** implemented in Java. 
--- It demonstrates: 
+It demonstrates: 
 - The **Builder Design Pattern** for flexible object creation.
 - **Inheritance and Polymorphism** through different student types.
 - Application of **SOLID principles** to ensure clean, modular, and extensible code.
