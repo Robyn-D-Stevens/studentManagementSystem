@@ -14,3 +14,8 @@ It demonstrates:
 - **UndergraduateStudent (subclass)** Extends `Student` and adds `creditHours` and `scholarshipAmount`. Includes its own **Builder** for object construction.
 - **GraduateStudent (subclass)** Extends `Student` and adds `researchAssistant` and `stipend`. Includes its own **Builder** for object construction.
 - **Main class** Demonstrates creating student objects using the Builder pattern and displaying their details.
+
+# How to view assignment code:
+- Navigate to branches
+- Select branch named **master**
+- Code for each class will be found under **src/main/java/za/ac/cput**
