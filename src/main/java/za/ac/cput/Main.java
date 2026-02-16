@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // Build an Undergraduate Student
         UndergraduateStudent uStudent = new UndergraduateStudent.Builder("987654321", "Robyn")
-                .email("robyn@email.com")
+                .email("robyn@example.com")
                 .department("ICT")
                 .creditHours(20)
                 .scholarshipAmount(20000)
@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Tuition: " + uStudent.calculateTuition());
         System.out.println("----------------------------------------");
 
-        // Build a Graduate Student
+        // Builder for a Graduate Student
         GraduateStudent gStudent = new GraduateStudent.Builder("20123456", "Alex")
                 .email("alex@university.com")
                 .department("Information Technology")
