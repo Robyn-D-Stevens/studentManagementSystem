@@ -4,7 +4,7 @@ package za.ac.cput;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        // Build an Undergraduate Student
+        // Builder for an Undergraduate Student
         UndergraduateStudent uStudent = new UndergraduateStudent.Builder("987654321", "Robyn")
                 .email("robyn@example.com")
                 .department("ICT")
